@@ -1,0 +1,4 @@
+building_id,facility_type,unit_name,area_sqm
+1,classroom,IT,1000
+1,lab,IT,500
+2,admin,Admin,400
